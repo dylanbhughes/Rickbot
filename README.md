@@ -7,7 +7,7 @@ To get started, clone down the repository and install all dependencies via the c
 
 ```bash
 
-git clone http://wwww.github.com/dylanbhughes/Rickbot.git
+git clone https://github.com/dylanbhughes/Rickbot.git
 
 npm install
 
