@@ -1,0 +1,38 @@
+{
+  "name": "rickbot",
+  "version": "1.0.0",
+  "description": "Chat with the infamous Rick Sanchez!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanbhughes/Rickbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "rick",
+    "morty",
+    "rick",
+    "&",
+    "morty",
+    "rick",
+    "and",
+    "morty",
+    "messenger",
+    "slack",
+    "facebook",
+    "messenger"
+  ],
+  "author": "Dylan Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dylanbhughes/Rickbot/issues"
+  },
+  "homepage": "https://github.com/dylanbhughes/Rickbot#readme",
+  "dependencies": {
+    "botkit": "^0.2.0",
+    "dotenv": "^2.0.0"
+  }
+}
