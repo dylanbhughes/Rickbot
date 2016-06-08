@@ -26,3 +26,6 @@ To add to your slack channel:
 5) Put that token in a .env file in the home directory.
 
 5) Run the bot:​ ```npm start```
+
+
+I'll be updating this periodically as I get a better understanding of bots. I'm hoping to get Rick to do math, tell you where the closest bar is, and do a number of other cool shit all in Rick's signature <burp> vernacular.
